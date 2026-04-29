@@ -5,6 +5,20 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>N5 Skimmify</title>
 <script src="https://cdn.tailwindcss.com"></script>
+<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+<script>
+  window.OneSignalDeferred = window.OneSignalDeferred || [];
+    OneSignalDeferred.push(async function(OneSignal) {
+        await OneSignal.init({
+              appId: "6d233f88-93e6-40fa-af19-3ec8dfc38d34",
+                    safari_web_id: "web.onesignal.auto.1044439c-4734-453a-8647-75618580556e",
+                          notifyButton: {
+                                  enable: true,
+                                        },
+                                            });
+                                              });
+                                              </script>
+                                              
 </head>
 <body>
 <div id="root"></div>
