@@ -158,7 +158,7 @@ export const initialN5Data = [
   { id: 781, word: '一本', reading: 'いっぽん', meaning: '1자루/병' }, { id: 782, word: '二本', reading: 'にほん', meaning: '2자루/병' }, { id: 783, word: '三本', reading: 'さんぼん', meaning: '3자루/병' }, { id: 784, word: '匹', reading: 'ひき', meaning: '마리' }, { id: 785, word: '一匹', reading: 'いっぴき', meaning: '1마리' },
   { id: 786, word: '二匹', reading: 'にひき', meaning: '2마리' }, { id: 787, word: '三匹', reading: 'さんびき', meaning: '3마리' }, { id: 788, word: '杯', reading: 'はい', meaning: '잔' }, { id: 789, word: '一杯', reading: 'いっぱい', meaning: '1잔/가득' }, { id: 790, word: '二杯', reading: 'にはい', meaning: '2잔' },
   { id: 791, word: '三杯', reading: 'さんばい', meaning: '3잔' }, { id: 792, word: '歳', reading: 'さい', meaning: '살/세' }, { id: 793, word: '一歳', reading: 'いっさい', meaning: '1살' }, { id: 794, word: '二十歳', reading: 'はたち', meaning: '스무 살' }, { id: 795, word: '時', reading: 'じ', meaning: '시' },
-  { id: 796, word: '分', reading: 'ふん', meaning: '분' }, { id: 797, word: '秒', reading: 'びょう', meaning: '초' }, { id: 798, word: '時間', reading: 'じかん', meaning: '시간' }, { id: 799, word: '週間', reading: 'しゅうかん', meaning: '주일' }, { id: 800, word: 'か月', reading: 'かげつ', meaning: '개월' }
+  { id: 796, word: '分', reading: 'ふん', meaning: '분' }, { id: 797, word: '秒', reading: 'びょう', meaning: '초' }, { id: 798, word: '時間', reading: 'じかん', meaning: '시간' }, { id: 799, word: '週間', reading: 'しゅうかん', meaning: '주간' }, { id: 800, word: 'か月', reading: 'かげつ', meaning: '개월' }
                     ];
                     
 
